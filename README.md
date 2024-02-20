@@ -1,2 +1,3 @@
-# indiopicaro
+# Indio Picaro
+
 Indio Picaro RaspberryPi Project 
